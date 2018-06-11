@@ -1,0 +1,1 @@
+INSERT INTO `positions`(`position_title`) VALUES ('Junior PHP Developer'), ('Middle PHP Developer'), ('Senior PHP Developer')
